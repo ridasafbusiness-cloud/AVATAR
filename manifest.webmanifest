@@ -1,0 +1,28 @@
+{
+  "id": "./",
+  "name": "BAC 2027 — Study Center v4",
+  "short_name": "BAC 2027",
+  "description": "مركز دراسة شخصي لبكالوريا الجزائر مع منهج قابل للتعديل وإعادة ترتيب بالسحب.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0d0b12",
+  "theme_color": "#9254ff",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
